@@ -13,6 +13,8 @@ En cuanto a la parte de **Testing** apreciaría algunas observaciones ya que es 
 
 Aprender a integrar y utilizar **Elasticsearch y Kibana** también fue un gran y prospero desafío, ya que no conocía en absoluto dichas herramientas y me parecieron muy buenas.
 
+En cuanto a la base de datos, en la capa de Infraestructura deje una carpeta con un script para popular la tabla de PermissionTypes.
+
 En cuanto a la arquitectura utilizada arme una adaptación de Clean Architecture de Jason Taylor, digo adaptación ya que esta arquitectura es acompañada por el principio de **DDD** debido a que está pensada para aplicaciones robustas y en este caso no era necesario.
 
 Desde ya muchas gracias, estoy abierto a cualquier tipo de observación, ha sido un gran desafio!
